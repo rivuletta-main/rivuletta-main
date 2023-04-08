@@ -20,8 +20,7 @@
 <a href="mailto:kaankubilayozdemir@gmail.com"> <img src="https://unpkg.com/simple-icons@v4/icons/gmail.svg" width="22"> </a> 
 [<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 
-<br />
-<br />
+
 
 ## Tech I use
 
@@ -39,9 +38,6 @@
 ## <summary>:bulb: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=rivuletta-main&theme=dark" >
 
-
-<br />
-<br />
 
 
 ## <summary>:bulb:  Most Used Languages</summary>
