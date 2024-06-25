@@ -5,7 +5,7 @@
 
 ### Hi there, I'm Kaan Kubilay Özdemir. :blush:
                                                         
-### Data Developer | Game Developer | Android Developer  <img src="https://media.giphy.com/media/jPI0uK8lRXArlCdgFc/giphy.gif" align="right" width="100" height="100">
+### Data Developer | Artifical İntelligence Engineer | Web Developer  <img src="https://media.giphy.com/media/jPI0uK8lRXArlCdgFc/giphy.gif" align="right" width="100" height="100">
 
                                                             
 <font color="pink">Sometimes it's better to sleep lots of </font> <br> <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" align="right" width="75" height="75"> 
